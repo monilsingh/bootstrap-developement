@@ -1,4 +1,10 @@
-.nature_image img{
-    height: 50px;
-    width: 100px;
-}
+.child{height: 90px;
+    border: 5px  solid var(--bs-blue); 
+    margin: bottom 20px;
+    text-align: center;
+    font-weight: 900;
+ }
+ .company_category_content{
+    display: flex !important;
+    justify-content: space-between !important;
+ }
